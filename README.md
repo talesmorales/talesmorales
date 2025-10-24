@@ -1,5 +1,5 @@
 # talesmorales
-# Olá ! Eu sou o Tales Morales
+# Opa, tudo bem? Eu sou o Tales Morales
 
 **Estudante de Economia (FEA-USP)** • Buscando a tecnologia para entender o mundo
 
