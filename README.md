@@ -1,11 +1,10 @@
 # talesmorales
 # Opa, tudo bem? Eu sou o Tales Morales
 
-**Estudante de Economia (FEA-USP)** • Buscando a tecnologia para entender o mundo
+**Estudante de Economia (FEA-USP)** 
 
 ## 🔭 Sobre mim
 - 🎓 Estudante de Economia na **FEA-USP**  
-- 💡 Interesse em: análise de dados, macroeconomia, políticas públicas e finanças quantitativas
 - 🧠 Membro: @fea-dev-usp
 
 ---
